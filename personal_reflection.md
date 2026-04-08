@@ -1,0 +1,9 @@
+# Personal Reflection
+
+Watching Mosh Hamedani's Web Development Roadmap helped me understand the difference between frontend, backend, and full-stack development.
+
+- Backend: Learned languages, databases, and problem-solving.
+- Frontend: Learned HTML, CSS, JavaScript, TypeScript, React.
+- Git & Workflow: Commit early, commit often to track progress.
+
+My takeaway: Step-by-step learning and consistent practice are key to real-world jobs.
